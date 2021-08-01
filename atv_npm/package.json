@@ -1,0 +1,13 @@
+{
+  "name": "atv_npm",
+  "version": "1.0.0",
+  "description": "atv",
+  "main": "musica-ninar.html",
+  "scripts": {
+  },
+  "keywords": [
+    "atividade"
+  ],
+  "author": "JVAS",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "atividade-site",
+  "version": "1.0.0",
+  "description": "atividade site",
+  "main": "AtividadeSite.html",
+  "scripts": {
+  },
+  "keywords": [
+    "site"
+  ],
+  "author": "JVAS",
+  "license": "ISC"
+}
